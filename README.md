@@ -15,6 +15,8 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=uqlel&title_color=58a6ff&text_color=9f9f9f&icon_color=58a6ff&bg_color=0d1117)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uqlel&layout=compact&title_color=58a6ff&text_color=9f9f9f&icon_color=58a6ff&bg_color=0d1117)
+
 </details>
 <details> <summary> <b> My projects </b> </summary>
 
