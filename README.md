@@ -1,4 +1,5 @@
-<h3 align="center"><code>console.log("Hi, I'm uQlel")</code></h3>
+<h3 align="center"> <code>console.log("Hi, I'm uQlel")</code></h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=uQlel"> </img> <a href="https://github.com/uqlel"> <img src="https://img.shields.io/github/followers/uqlel?label=follow&style=social"> </a> <a href="https://redit.com/u/uqlel"> <img src="https://img.shields.io/reddit/user-karma/combined/uqlel?style=social&label=Reddit+karma"> </img></a></p>
 
 **Something about me**
 
@@ -7,6 +8,7 @@
 <li> 🌱 I’m writing code in JavaScript, HTML/CSS, Python 
 <li> 📫 How to reach me: By Discord: <a href="https://discord.com/users/822461337120538654"> uQlel but better#3129</a>, By e-mail: <a href="mailto:root@uqlel.cf"> root@uqlel.cf </a>
   <li> 👭 I like collaborating with <a href="https://github.com/LipekX"> <b> @LipekX </b> </a>
+  <li> 💻 I'm using Visual Studio Code and Kubuntu 
 </ul>
 
 <details> <summary> <b> GitHub Stats </b> </summary>
