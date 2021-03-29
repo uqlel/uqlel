@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**uqlel/uqlel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello there! 👋
+- 🔭 I’m currently working on my Discord Bot 
+- 🌱 I’m writing code in JavaScript, HTML/CSS, Python 
+- 📫 How to reach me: By Discord: [uQlel but better#3129](https://discord.com/users/822461337120538654), By e-mail: root@uqlel.cf 
+- 👭 I like collaborating with  [@LipekX](https://github.com/LipekX)
 
-Here are some ideas to get you started:
+![Stats](https://github-readme-stats.vercel.app/api?username=uqlel&title_color=58a6ff&text_color=9f9f9f&icon_color=58a6ff&bg_color=0d1117)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![YourCraft API](https://github-readme-stats.vercel.app/api/pin?username=yourcraft-pl&repo=api&title_color=58a6ff&text_color=9f9f9f&icon_color=58a6ff&bg_color=0d1117)
+![YourCraft API Wrapper](https://github-readme-stats.vercel.app/api/pin?username=yourcraft-pl&repo=api-wrapper.js&title_color=58a6ff&text_color=9f9f9f&icon_color=58a6ff&bg_color=0d1117)
+![YAPP](https://github-readme-stats.vercel.app/api/pin?username=yapp-cf&repo=frontend&title_color=58a6ff&text_color=9f9f9f&icon_color=58a6ff&bg_color=0d1117)
+![OS-STATS](https://github-readme-stats.vercel.app/api/pin?username=uqlel&repo=os-stats&title_color=58a6ff&text_color=9f9f9f&icon_color=58a6ff&bg_color=0d1117)
