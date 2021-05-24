@@ -6,7 +6,7 @@
 <ul>
 <li> 🔭 I’m currently working on my Discord Bot 
 <li> 🌱 I’m writing code in JavaScript, HTML/CSS, Python 
-<li> 📫 How to reach me: By Discord: <a href="https://discord.com/users/822461337120538654"> uQlel but better#3129</a>, By e-mail: <a href="mailto:root@uqlel.cf"> root@uqlel.cf </a>
+<li> 📫 How to reach me: By Discord: <a href="https://discord.com/users/601711693172572170"> uQlel#9256</a>, By e-mail: <a href="mailto:root@uqlel.cf"> root@uqlel.cf </a>
   <li> 👭 I like collaborating with <a href="https://github.com/LipekX"> <b> @LipekX </b> </a>
   <li> 💻 I'm using Visual Studio Code, IntelIJ IDEA Ultimate and Kubuntu 
 </ul>
