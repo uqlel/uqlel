@@ -1,5 +1,5 @@
 <h3 align="center"> <code>console.log("Hi, I'm uQlel")</code></h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=uQlel"> </img> <a href="https://github.com/uqlel"> <img src="https://img.shields.io/github/followers/uqlel?label=follow&style=social"> </a> <a href="https://redit.com/u/uqlel"> <img src="https://img.shields.io/reddit/user-karma/combined/uqlel?style=social&label=Reddit+karma"> </img></a></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=uQlel"> </img> <a href="https://github.com/uqlel"> <img src="https://img.shields.io/github/followers/uqlel?label=follow&style=social"> </a> <a href="https://reddit.com/u/uqlel"> <img src="https://img.shields.io/reddit/user-karma/combined/uqlel?style=social&label=Reddit+karma"> </img></a></p>
 
 **Something about me**
 
