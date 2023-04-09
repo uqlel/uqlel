@@ -4,10 +4,10 @@
 **Something about me**
 
 <ul>
-<li> 🔭 I’m currently working on my Discord Bot 
+<li> 🔭 I’m currently working on few projects related to YourCraft and Host2Play
 <li> 🌱 I’m writing code in JavaScript, HTML/CSS, Python 
 <li> 📫 You can reach me by Discord: <a href="https://discord.com/users/601711693172572170"> uQlel#9256</a>
-  <li> 💻 I'm using Visual Studio Code, IntelIJ IDEA Ultimate and Windows 11/Artix Linux
+  <li> 💻 I'm using VSCodium on Arch Linux
 </ul>
 
 <details> <summary> <b> GitHub Stats </b> </summary>
